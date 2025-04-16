@@ -1,0 +1,73 @@
+[
+{
+ "empName":"moiz",
+ "empEmail":"moiz@gmail.com",
+ "empNumber":"+92465638798",
+ "empadd":"Karachi-Pakistan",
+ "empsalary":"50000"
+}
+
+{
+    "empName":"ahmed",
+    "empEmail":"ahmed@gmail.com",
+    "empNumber":"+92465638798",
+    "empadd":"Karachi-Pakistan",
+    "empsalary":"50000"   
+}
+
+{ "empName":"owais",
+"empEmail":"owais@gmail.com",
+"empNumber":"+92465638798",
+"empadd":"Karachi-Pakistan",
+"empsalary":"50000"
+}
+
+{ "empName":"iqbal",
+"empEmail":"iqbal@gmail.com",
+"empNumber":"+92465638798",
+"empadd":"Karachi-Pakistan",
+"empsalary":"50000"
+}
+
+{ "empName":"ali",
+"empEmail":"ahmed@gmail.com",
+"empNumber":"+92465638798",
+"empadd":"Karachi-Pakistan",
+"empsalary":"50000"
+}
+
+{ "empName":"anas",
+"empEmail":"anas@gmail.com",
+"empNumber":"+92465638798",
+"empadd":"Karachi-Pakistan",
+"empsalary":"50000"
+}
+
+{ "empName":"areesh",
+"empEmail":"areesh@gmail.com",
+"empNumber":"+92465638798",
+"empadd":"Karachi-Pakistan",
+"empsalary":"50000"
+}
+
+{"empName":"mohib",
+"empEmail":"mohib@gmail.com",
+"empNumber":"+92465638798",
+"empadd":"Karachi-Pakistan",
+"empsalary":"50000"}
+
+{"empName":"hassan",
+"empEmail":"hassan@gmail.com",
+"empNumber":"+92465638798",
+"empadd":"Karachi-Pakistan",
+"empsalary":"50000"}
+
+{"empName":"mohib",
+"empEmail":"mohib@gmail.com",
+"empNumber":"+92465638798",
+"empadd":"Karachi-Pakistan",
+"empsalary":"50000"}
+
+
+
+]
